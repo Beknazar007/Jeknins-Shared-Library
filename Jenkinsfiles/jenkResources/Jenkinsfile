@@ -10,6 +10,12 @@ pipeline {
                  
                 HelloWExternal(surname:"Saittegin",name:"Beknazar")
             }
+        stage('Sendemail') {
+            steps {
+                 
+                 
+                sendemail(surname:"Saittegin",name:"Beknazar")
+            }
         }
     }
 }
