@@ -28,7 +28,7 @@ pipeline {
             steps {
                  
                  
-                NS(surname:"Saittegin",name:"Beknazar")
+                mapconfig(surname:"Saittegin",name:"Beknazar")
             }
         }
     }
