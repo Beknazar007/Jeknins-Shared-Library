@@ -1,2 +1,0 @@
-# mail bcc: '', body: 'Hi there Assalam Aleikum', cc: '', from: '', replyTo: '', subject: 'Assalam Aleikum', to: 'saitovbeknazar6@gmail.com'
-sh'mail bcc: '', body: 'Please make sure that you started your build', cc: '', from: '', replyTo: '', subject: 'Your build started', to: 'esenbaevnurmuhamed7@gmail.com''
