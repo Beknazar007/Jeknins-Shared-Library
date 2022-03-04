@@ -8,3 +8,5 @@
         Add siderbarLink for your pipeline. For this we created groovy file named "addSidebarLink.groovy" and isntall plugin "Sidebar Link"
 ## Jenkinsfile-4
         Didn't practiced 
+
+[Tutorial](https://www.youtube.com/watch?v=gcUORgHuna4&list=PLvBBnHmZuNQJeznYL2F-MpZYBUeLIXYEe&index=37)
